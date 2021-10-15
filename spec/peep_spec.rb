@@ -1,6 +1,6 @@
 require './lib/peep'
 
-describe Peeps do
+describe Peep do
   it 'should the list of peeps' do
     peeps = Peep.all
 
